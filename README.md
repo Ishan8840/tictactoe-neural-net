@@ -54,8 +54,8 @@ AI wins! 🏆
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Ishan8840/TicTacNN.git
-cd tictactoe-ai
+git clone https://github.com/Ishan8840/tictacttoe-neuralnet.git
+cd tictactoe-neuralnet
 ```
 
 2. Install dependencies:
